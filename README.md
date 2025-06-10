@@ -6,6 +6,9 @@ A comprehensive PyQt6-based GUI application for configuring and managing the ASU
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![PyQt6](https://img.shields.io/badge/PyQt6-GUI-orange)
 
+![Image Description](https://github.com/gokmonk/asus-mouse-config-spatha-ubuntu-22.04/blob/70d9f76ea9cb5ce7e2979e6a6dd40facced7b966/Screenshot%20from%202025-06-10%2023-34-58.png)
+
+
 ## Features
 
 ### 🎯 **Mouse Configuration**
