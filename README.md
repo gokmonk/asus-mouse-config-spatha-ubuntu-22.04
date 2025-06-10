@@ -221,4 +221,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 ---
 
-**Note**: This is a GUI demonstration/template. For actual hardware control, integration with official ASUS ROG drivers and APIs would be required.
+**Note**: This is a GUI demonstration/template. For actual hardware control, integration with official ASUS ROG drivers and APIs would be required. Writen by ai testing is ongoing.
